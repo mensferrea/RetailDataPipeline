@@ -21,14 +21,14 @@
 Оркестрация экстракции из 4 разнородных источников, очистка, дедупликация и автоматический пересчет аналитических витрин данных.
 
 <p align="center">
-  <img src="docs/images/screenshot_1.png" alt="ETL Pipeline Execution" width="950" />
+  <img src="docs/images/screenshot_2.png" alt="ETL Pipeline Execution" width="950" />
 </p>
 
 ### 2. Интерактивная среда и API-шлюз управления витринами
 Управление инкрементальными запусками, отслеживание аудита в `core.pipeline_runs` и выгрузка готовых витрин через Swagger UI.
 
 <p align="center">
-  <img src="docs/images/screenshot_2.png" alt="FastAPI and Data Marts Interface" width="950" />
+  <img src="docs/images/screenshot_1.png" alt="FastAPI and Data Marts Interface" width="950" />
 </p>
 
 ---
