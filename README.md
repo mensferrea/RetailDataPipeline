@@ -116,7 +116,7 @@ ETL-конвейер забирает данные из всех 4 источн�
 |---|---|
 | **Язык и среда** | Python 3.12, Linux / Windows |
 | **Обработка данных** | Pandas 3.0+, NumPy 2.0+ (векторизованная очистка и трансформация) |
-| **База данных и DWH** | PostgreSQL 16 (схемы `staging`, `core`, `marts`, `source_crm`) |
+| **База данных и DWH** | PostgreSQL 17 (схемы `staging`, `core`, `marts`, `source_crm`) |
 | **ORM и SQL Engine** | SQLAlchemy 2.0+, Psycopg2-binary |
 | **Web API и Контракты** | FastAPI, Pydantic 2.0+, Pydantic-Settings, Uvicorn, Httpx |
 | **Тестирование** | Pytest (20 модульных и интеграционных тестов) |
