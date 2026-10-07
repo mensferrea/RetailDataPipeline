@@ -5,7 +5,7 @@
 
   [![Python](https://img.shields.io/badge/Python-3.12-3776AB?&logo=python&logoColor=white)](https://www.python.org/)
   [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
   [![Pandas](https://img.shields.io/badge/Pandas-3.0+-150458?&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
   [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0+-D71F00?&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
   [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?&logo=docker&logoColor=white)](https://www.docker.com/)
