@@ -3,14 +3,14 @@
   <h1>Retail ETL & Data Mart Pipeline</h1>
   <p><strong>Промышленный ETL-конвейер и аналитическое хранилище данных (DWH) для розничной торговли на Python, PostgreSQL, Pandas и FastAPI</strong></p>
 
-  [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-  [![Pandas](https://img.shields.io/badge/Pandas-3.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-  [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0+-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
-  [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-  [![Pytest](https://img.shields.io/badge/Tests-20%20Passed-2EA44F?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+  [![Python](https://img.shields.io/badge/Python-3.12-3776AB?&logo=python&logoColor=white)](https://www.python.org/)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![Pandas](https://img.shields.io/badge/Pandas-3.0+-150458?&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+  [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0+-D71F00?&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+  [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Pytest](https://img.shields.io/badge/Tests-20%20Passed-2EA44F?&logo=pytest&logoColor=white)](https://pytest.org/)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg?)](LICENSE)
 </div>
 
 ---
